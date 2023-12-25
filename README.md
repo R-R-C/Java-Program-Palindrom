@@ -1,2 +1,2 @@
-# Java-Program-Palindrom
- Creat Java Palindrom Program
+# Java-Program-Palindrome
+ Create Java Palindrome Program
